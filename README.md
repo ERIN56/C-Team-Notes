@@ -1,8 +1,10 @@
-## C++ Coding Test Team Note
+# C++ Coding Test Team Note
 * This repository is Algorithm and STL and PS(Problem-Solving) for Coding Test
 * 코딩테스트를 위한 (C++)알고리즘과 STL과 문제풀이 저장소입니다.
 
-## Contents
+# Contents
+
+## Algorithm
 ### 복잡도   
 N의 범위가 500인 경우 : O(n^3)인 알고리즘을 설계하면 풀 수 있다.   
 N의 범위가 2,000인 경우 : O(n^2)   
@@ -54,7 +56,9 @@ N의 범위가 10,000,000인 경우 : O(n)
     * [Number of intervals whom sum is M](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Miscellaneous/Number%20of%20intervals%20whos%20sum%20is%20M%20(Two%20Pointers).cpp)
   * [Sum of Intervals (Prefix Sum)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Miscellaneous/Sum%20of%20Intervals%20(Prefix%20Sum).cpp)
 
+## STL
 
+## PS(Problem-Solving)
 
 
 
