@@ -1,6 +1,6 @@
 ## C++ Coding Test Team Note
-* This repository is Algorithm source code and STL for Coding Test
-* 코딩테스트를 위한 (C++)알고리즘 소스 코드와 STL 저장소입니다.
+* This repository is Algorithm and STL and PS(Problem-Solving) for Coding Test
+* 코딩테스트를 위한 (C++)알고리즘과 STL과  저장소입니다.
 
 ## Contents
 ### 복잡도   
