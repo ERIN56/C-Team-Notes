@@ -2,10 +2,12 @@
 * This repository is Algorithm and STL and PS(Problem-Solving) for Coding Test
 * 코딩테스트를 위한 (C++)알고리즘과 STL과 문제풀이 저장소입니다.
 
-</br>
 
 # Contents
-
+* Algorithm
+* STL
+* PS(Problem-Solving)
+---
 ## Algorithm
 ### 복잡도   
 N의 범위가 500인 경우 : O(n^3)인 알고리즘을 설계하면 풀 수 있다.   
