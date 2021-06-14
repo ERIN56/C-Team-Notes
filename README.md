@@ -6,7 +6,7 @@
 # Contents
 * [Algorithm](#algorithm)
 * [STL](#STL)
-* [PS(Problem-Solving)](#PS(Problem-Solving))
+* [PS(Problem-Solving)](#PS)
 ---
 ## Algorithm
 ### 복잡도   
@@ -77,15 +77,16 @@ N의 범위가 10,000,000인 경우 : O(n)
  * [queue](#queue)
  * [priority_queue](#priority_queue)
  * [string](#string)
- * [원소를 수정하지 않는 알고리즘](#원소를-수정하지-않는-알고리즘(nonmodifying-algorithms))
- * [원소를 수정하는 알고리즘](#원소를-수정하는-알고리즘(modifying-algorithm))
- * [제거 알고리즘](#제거-알고리즘(removing-algorithms))
- * [변경 알고리즘](#변경-알고리즘(mutating-algorithms))
- * [정렬 알고리즘](#정렬-알고리즘(sorting-algorithms))
- * [정렬된 범위 알고리즘](#정렬된-범위-알고리즘(sorted-range-algorithms))
- * [수치 알고리즘](#수치-알고리즘(numeric-algorithms))
+ * [원소를 수정하지 않는 알고리즘](#원소를-수정하지-않는-알고리즘)
+ * [원소를 수정하는 알고리즘](#원소를-수정하는-알고리즘)
+ * [제거 알고리즘](#제거-알고리즘)
+ * [변경 알고리즘](#변경-알고리즘)
+ * [정렬 알고리즘](#정렬-알고리즘)
+ * [정렬된 범위 알고리즘](#정렬된-범위-알고리즘)
+ * [수치 알고리즘](#수치-알고리즘)
  
  </br>
+ 
  > 컨테이너  
 
  * 표준 시퀀스 컨테이너 : vector, deque, list (선형적) - 컨테이너 원소가 자신만의 삽입 위치(순서)를 가지는 컨테이너 (String, arr[n] : 근사 시퀀스 컨테이너) -> push_back(), pop_back() 제공
