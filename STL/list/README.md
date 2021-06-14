@@ -45,7 +45,7 @@
 | lt.splice(p, lt2) | p 가 가리키는 위치에 lt2 의 모든 원소를 잘라 붙인다. |
 | lt.splice(p, lt2, q) | p 가 가리키는 위치에 lt2 의 q 가 가리키는 원소를 잘라 붙인다. |
 | lt.splice(p, lt2, b, e) | p 가 가리키는 위치에  lt2 의 순차열 \[b, e)를 잘라 붙인다. |
-| [lt.unique(https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/list/unique().cpp)]() | 인접한 원소의 값이 같다면 유일한 원소의 순차열로 만든다. |
+| [lt.unique()](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/list/unique().cpp) | 인접한 원소의 값이 같다면 유일한 원소의 순차열로 만든다. |
 | [lt.unique(pred)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/list/unique(pred).cpp) | 인접한 원소가 pred(이항 조건자)의 기준에 맞다면 유일한 원소의 순차열로 만든다. |
 </br>
 
