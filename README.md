@@ -6,7 +6,7 @@
 # Contents
 * [Algorithm](#algorithm)
 * [STL](#STL)
-* [PS(Problem-Solving)](#PS)
+* [PS](#PS)
 ---
 ## Algorithm
 ### 복잡도   
