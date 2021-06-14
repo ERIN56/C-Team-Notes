@@ -68,9 +68,9 @@ N의 범위가 10,000,000인 경우 : O(n)
    * [list](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/list)
    * [set](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/set)
    * [map](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/map)
-   * [stack](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/stack)
-   * [queue](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/queue)
-   * [priority_queue](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/priority_queue)
+   * stack
+   * queue
+   * priority_queue
    * [string](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/string)
  * 반복자(Iterator)
  * 알고리즘(Algorithm)
