@@ -8,7 +8,7 @@
 | string s(sz, n) | sz 문자열에서 n 개의 문자열로 s 생성 |
 | stirng s(n, c) | n 개의 c 문자로 s 생성 |
 | string s(iter1, iter2) | 반복자 구간 \[iter1, iter2) 로 s 생성 |
-| string s(p1, p2) | 포인터 구간 \[p1, p2)의 문자로 s 생성 |
+| [string s(p1, p2)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/string/string%20생성자.cpp) | 포인터 구간 \[p1, p2)의 문자로 s 생성 |
 </br>
 
 | 멤버 함수 ||
