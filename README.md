@@ -22,7 +22,7 @@ N의 범위가 10,000,000인 경우 : O(n)
   * [Counting Sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/CountingSort.cpp)
   * [Topological Sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/TopologicalSort.cpp)
   * C++ Sort Library
-    * sort
+    * sort (시퀀스 컨테이너만 가능)
     * priority_queue
 
 ### Searching
