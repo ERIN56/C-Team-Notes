@@ -19,16 +19,16 @@
 | s.at(i) | i 번째 문자를 참조 |
 | p = s.begin() | p 는 첫 문자를 가리키는 반복자 |
 | p = s.end() | p 는 끝을 가리키는 반복자 |
-| s.c_str() | c 스타일 (널문자를 포함한) 문자열의 주소 반환 |
+| s.c_str() | c 스타일 (널문자를 포함한) 문자열의 주소 반환 (const char* 형식 반환)|
+| s.data() | 문자열의 배열 주소로 반환 (const char* 형식 반환) |
 | n = s.capacity() | n 은 s 에 할당된 메모리 크기 |
 | s.clear() | 비움 |
 | s.compare(s2) | s 와 s2 를 비교 |
 | s.copy(but, n) | but 로 n 개의 문자를 복사 |
-| s.data() | 문자열의 배열 주소로 반환 |
 | s.empty() | 비었는지 조사 |
 | q = s.erase(p) | p 가 가리키는 문자를 제거. q 는 다음 원소를 가리킴. |
 | q = s.erase(b, e) | 반복자 구간 \[b,e)의 모든 문자를 제거. q 는 다음 원소 |
-| s.find(c) | c 문자를 검색 |
+| s.find(c) | c 문자를 검색 (찾는 문자가 없으면 string::npos 반환)|
 | s.length() | 문자의 개수 |
 | n = s.max_size() | n 은 s 가 담을 수 있는 최대 문자의 개수 (메모리 크기) |
 | s.push_back(c) | s 의 끝에 c 를 추가 |
