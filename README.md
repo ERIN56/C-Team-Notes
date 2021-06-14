@@ -43,7 +43,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 
 ### String
   * KMP
-  * C++ String Library
+  * [C++ String Library](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/string)
 
 ### Dynamic Programming
   * [Fibonacci numbers](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/DP/pibonacci_DP.cpp)
