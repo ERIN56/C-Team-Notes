@@ -37,16 +37,16 @@
 | lt.swap(lt2) |  lt와 lt2 를 swap 한다. |
 | lt.merge(lt2) | lt2를 lt로 합병정렬 한다.(오름차순) |
 | lt.merge(lt2, pred) | lt2를 lt로 합병 정렬한다. pred(조건자)를 기준으로 (pred는 이항 조건자) |
-| [lt.remove(x)]() | x 원소를 모두 제거한다. |
-| [lt.remove_if(pred)]() | pred(단항 조건자)가 '참'인 모든 원소를 제거한다. |
+| [lt.remove(x)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/list/remove().cpp) | x 원소를 모두 제거한다. |
+| [lt.remove_if(pred)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/list/remove_if().cpp) | pred(단항 조건자)가 '참'인 모든 원소를 제거한다. |
 | lt.reverse() | 순차열을 뒤집는다. |
 | lt.sort() | 모든 원소를 오름차순으로 정렬한다. |
 | lt.sort(pred) | 모든 원소를 pred(조건자) 기준으로 정렬한다. (pred는 이항 조건자) |
 | lt.splice(p, lt2) | p 가 가리키는 위치에 lt2 의 모든 원소를 잘라 붙인다. |
 | lt.splice(p, lt2, q) | p 가 가리키는 위치에 lt2 의 q 가 가리키는 원소를 잘라 붙인다. |
 | lt.splice(p, lt2, b, e) | p 가 가리키는 위치에  lt2 의 순차열 \[b, e)를 잘라 붙인다. |
-| [lt.unique()]() | 인접한 원소의 값이 같다면 유일한 원소의 순차열로 만든다. |
-| [lt.unique(pred)]() | 인접한 원소가 pred(이항 조건자)의 기준에 맞다면 유일한 원소의 순차열로 만든다. |
+| [lt.unique(https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/list/unique().cpp)]() | 인접한 원소의 값이 같다면 유일한 원소의 순차열로 만든다. |
+| [lt.unique(pred)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/list/unique(pred).cpp) | 인접한 원소가 pred(이항 조건자)의 기준에 맞다면 유일한 원소의 순차열로 만든다. |
 </br>
 
 |연산자||
