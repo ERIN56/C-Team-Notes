@@ -153,7 +153,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 
 ## 수치 알고리즘(numeric algorithms)
 
-## PS(Problem-Solving)
+## PS
 
 
 
