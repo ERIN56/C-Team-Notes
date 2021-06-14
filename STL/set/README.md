@@ -1,5 +1,10 @@
 
-## Set
+## set
+
+| set | multiset |
+|:----------|:----------|
+| #include \<set> </br> set\<int> s; | #include \<set> </br> multiset\<int> ms; |
+
 * 컨테이너에 원소(Key)를 저장(삽입)하는 유일한 멤버 함수 insert()를 제공합니다.
 * set은 모든 원소(Key)가 유일합니다. 원소의 중복을 허용해야 한다면 multiset을 사용해야 합니다.
 * 시퀀스 컨테이너가 제공하는 순서와 관련된 함수류인 push_back(), push_front(), pop_back(), pop_front(), front(), back() 를 제공하지 않습니다.
