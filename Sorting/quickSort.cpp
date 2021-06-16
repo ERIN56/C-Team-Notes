@@ -1,4 +1,4 @@
-퀵 정렬(O(nlogn), 최악인 경우 : O(n^2)(라이브러리에선 O(nlogn)이 보장됨))
+퀵 정렬(O(nlogn), 최악인 경우 : O(n^2) - 이미 데이터가 정렬되어 있는 경우 (* 라이브러리에선 O(nlogn)이 보장됨))
 	(병합 O(nlogn)
 
 #include <bits/stdc++.h>
