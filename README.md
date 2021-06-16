@@ -23,7 +23,7 @@ N의 범위가 10,000,000인 경우 : O(n)
   * [Topological Sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/TopologicalSort.cpp)
   * C++ Sort Library
     * sort (시퀀스 컨테이너만 가능)
-    * priority_queue
+    * priority_queue(힙정렬-O(nlogn))
 
 ### Searching
   * [Sequential Search](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Searching/sequentialSearch.cpp)
