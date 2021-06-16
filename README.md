@@ -29,7 +29,7 @@ N의 범위가 10,000,000인 경우 : O(n)
   * [Sequential Search](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Searching/sequentialSearch.cpp)
   * [Binary Search](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Searching/binarySearch.cpp)
   * DFS
-    * [Visit Node Recursive](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Searching/dfs_visit_graph_node_recursive.cpp)
+    * [Visit Node Recursive](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Searching/DFS/dfs_visit_graph_node_recursive.cpp)
   * BFS
     * [Visit Node Queue](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Searching/BFS/bfs_visit_graph_node_queue.cpp)
 
