@@ -1,4 +1,8 @@
-순차 탐색 (최악->O(n))
+* 정렬되지 않은 리스트에서 데이터를 찾아야 할 때 사용
+* count() 메서드를 이용할 때 순차 탐색 수행
+
+순차 탐색 (최악인 경우에도 O(n))
+    
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -33,10 +37,10 @@ int main(void) {
     cout << sequantialSearch(n, target, arr) << '\n';
 }
 
-// <실행>
-// 생성할 원소 개수를 입력한 다음 한 칸 띄고 찾을 문자열을 입력하세요.
-// 5 Dongbin <-
+<실행>
+생성할 원소 개수를 입력한 다음 한 칸 띄고 찾을 문자열을 입력하세요.
+5 Dongbin <-
 
-// 앞서 적은 원소 개수만큼 문자열을 입력하세요. 구분은 띄어쓰기 한 칸으로 합니다.
-// Hanul Jonggu Dongbin Taeil Sangwook <-
-// 3
+앞서 적은 원소 개수만큼 문자열을 입력하세요. 구분은 띄어쓰기 한 칸으로 합니다.
+Hanul Jonggu Dongbin Taeil Sangwook <-
+3
