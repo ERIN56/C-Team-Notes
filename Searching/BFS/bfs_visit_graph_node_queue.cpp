@@ -1,3 +1,5 @@
+* 보통 DFS 보다는 BFS 구현이 조금 더 빠르게 동작한다.
+
 큐로 구현한 BFS 탐색 (그래프 노드 방문)
 
 #include <bits/stdc++.h>
@@ -31,6 +33,8 @@ void bfs(int start) {
 }
 
 int main(void) {
+
+    // 연결 리스트 사용
     // 노드 1에 연결된 노드 정보 저장
     graph[1].push_back(2);
     graph[1].push_back(3);
@@ -64,6 +68,10 @@ int main(void) {
     // 노드 8에 연결된 노드 정보 저장
     graph[8].push_back(1);
     graph[8].push_back(7);
-    
+
+    // 시작 노드 1
     bfs(1);
 }
+
+< 출력 결과 >
+1 2 3 8 7 4 5 6 (1에서 가까운 순서대로)
