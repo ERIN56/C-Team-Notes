@@ -52,6 +52,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 
 ### Number Theory
   * [Permutation and Combination](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Number%20Theory/Permutation%20and%20Combination.cpp)
+   * C++ Library - next_permutation(), 
   * [Prime Distinction](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Number%20Theory/PrimeDistinction.cpp)
     * [Sieve of Eratosthenes](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Number%20Theory/Sieve%20of%20Eratosthenes.cpp)
 
