@@ -114,7 +114,9 @@ N의 범위가 10,000,000인 경우 : O(n)
 ### TIP
 * int arr[][] 형태는 n 이 1500 이하 일 경우 가능
 * 빠른 입출력 :    
-  ios_base::sync_with_stdio(false); cin.tie(NULL); (endl 대신) "\n" (단, scanf/printf/puts/getchar/putchar 등 C의 입출력 방식은 사용불가)   
+  ios_base::sync_with_stdio(false); cin.tie(NULL); (endl 대신) "\n" (단, scanf/printf/puts/getchar/putchar 등 C의 입출력 방식은 사용불가) 
+* 오류 해결
+  * [(signal: aborted (core dumped)) / (signal: segmentation fault (core dumped))]()   
 
 ### Solving
 * [void rotate90degree(vector<vector<int>>& key)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/void%20rotate90degree.cpp)
