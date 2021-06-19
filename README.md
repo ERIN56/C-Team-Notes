@@ -119,8 +119,8 @@ N의 범위가 10,000,000인 경우 : O(n)
   * [(signal: aborted (core dumped)) / (signal: segmentation fault (core dumped))](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0/signal-aborted(core%20dumped).md)   
 
 ### Solving
- * [void rotate90degree(vector<vector<int>>& key)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/void%20rotate90degree.cpp)
- * [string change(string keyword, string from, string to)]()
+ * void [**rotate90degree**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/void%20rotate90degree.cpp)(vector<vector<int>>& key)
+ * [string *change*(string keyword, string from, string to)]()
 
 
 
