@@ -37,6 +37,9 @@
 | v.size() | 원소의 개수다. |
 | v.swap(v2) | v 와 v2 를 swap 한다. |
 | reverse(v.b, v.e) | 원소를 뒤집는다. |
+| p = lower_bound(v.b, v.e, sz) | p 는 sz 의 시작 원소를 가리키는 반복자이다. |
+| p = upper_bound(v.b, v.e, sz) | p 는 k 의 끝 을 가리키는 반복자이다. |
+
 
 </br>
 
