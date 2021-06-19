@@ -6,7 +6,7 @@
 # Contents
 * [Algorithm](#algorithm)
 * [STL](#STL)
-* [PS](#PS)
+* [Problem-Solving](#Problem-Solving)
 ---
 ## Algorithm
 ### 복잡도   
@@ -80,6 +80,7 @@ N의 범위가 10,000,000인 경우 : O(n)
  * 할당기(Allocator)
  
  </br>
+ </br>
  
  > 컨테이너  
 
@@ -88,6 +89,8 @@ N의 범위가 10,000,000인 경우 : O(n)
 
  * 배열 기반 컨테이너 : vector, deque -> operator[] 연산자 제공
  * 노드 기반 컨테이너 : list, set, multiset, map, multimap
+
+</br>
 
 > 반복자
  
@@ -99,18 +102,23 @@ N의 범위가 10,000,000인 경우 : O(n)
 
 모든 컨테이너는 양방향 반복자 이상을 제공하며, 배열 기반 컨테이너인 vector와 deque는 [임의 접근 반복자](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Iterator/임의접근반복자.cpp)를 제공합니다.
 
+</br>
+
 > 어댑터
 
 * 컨테이너 어댑터 : stack(default: deque), queue, priority_queue
 * 반복자 어댑터 : reverse_iterator, back_insert_iterator, front_insert_iterator, insert_iterator
 * 함수 어댑터 : 부정자(negator)-not2, 바인더(binder), 함수 포인터 어댑터(adpator for pointers to functions)
+</br>
 
 예제1. [reverse_iterator](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Iterator/reverse_iterator.cpp)   
- [역방향 반복자가 가리키는 실제 원소의 값은 다음 원소](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Iterator/reverse_iterator_real%20Value.cpp)   
+예제2. 역방향 반복자가 가리키는 실제 원소의 값은 다음 원소 [코드](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Iterator/reverse_iterator_real%20Value.cpp)   
 
-예제2. [not2](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Not2.cpp) : not1은 단항 조건자에 not2는 이항 조건자에 사용
+예제3. [not2](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Not2.cpp) : not1은 단항 조건자에 not2는 이항 조건자에 사용
 
-## PS
+</br>
+
+## Problem-Solving
 ### TIP
 * int arr[][] 형태는 n 이 1500 이하 일 경우 가능
 * 빠른 입출력 :    
