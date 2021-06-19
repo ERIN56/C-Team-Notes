@@ -1,4 +1,4 @@
-2020 KAKAO BLIND RECRUITMENT > 자물쇠와 열쇠
+2020 KAKAO BLIND RECRUITMENT > 자물쇠와 열쇠 > 2차 배열 열쇠 90도로 돌리는 함수
 https://programmers.co.kr/learn/courses/30/lessons/60059
 
 
