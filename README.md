@@ -63,26 +63,20 @@ N의 범위가 10,000,000인 경우 : O(n)
 
 ## STL
 ### 구성 요소
- * 컨테이너(Container)
-   * [vector](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/vector)
-   * deque
-   * [list](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/list)
-   * [set](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/set)
-   * [map](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/map)
-   * stack
-   * queue
-   * priority_queue
-   * [string](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/string)
- * 반복자(Iterator)
- * 알고리즘(Algorithm)
- * 함수 객체(Function Object)
- * 어댑터(Adaptor)
- * 할당기(Allocator)
+ * [vector](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/vector)
+ * deque
+ * [list](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/list)
+ * [set](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/set)
+ * [map](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/map)
+ * stack
+ * queue
+ * priority_queue
+ * [string](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/string)
  
  </br>
  </br>
- 
- > 컨테이너  
+
+ > 컨테이너 (Container)
 
  * 표준 시퀀스 컨테이너 : vector, deque, list (선형적) - 컨테이너 원소가 자신만의 삽입 위치(순서)를 가지는 컨테이너 (String, arr[n] : 근사 시퀀스 컨테이너) -> push_back(), pop_back() 제공
  * 표준 연관 컨테이너 :  set, multiset, map, multimap (비선형적) - 저장 원소가 삽입 순서와 다르게 특정 정렬 기준에 의해 자동 정렬되는 컨테이너
@@ -92,7 +86,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 
 </br>
 
-> 반복자
+> 반복자 (Iterator)
  
  * 입력 반복자
  * 출력 반복자
@@ -100,8 +94,14 @@ N의 범위가 10,000,000인 경우 : O(n)
  * 양방향 반복자
  * 임의 접근 반복자
 
-모든 컨테이너는 양방향 반복자 이상을 제공하며, 배열 기반 컨테이너인 vector와 deque는 [임의 접근 반복자](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Iterator/임의접근반복자.cpp)를 제공합니다.
+  ##### 모든 컨테이너는 양방향 반복자 이상을 제공하며, 배열 기반 컨테이너인 vector와 deque는 [임의 접근 반복자](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Iterator/임의접근반복자.cpp)를 제공합니다.
 
+</br>
+
+> 알고리즘 (Algorithm)   
+</br>
+
+> 함수 객체 (Function Object)
 </br>
 
 > 어댑터
@@ -111,11 +111,15 @@ N의 범위가 10,000,000인 경우 : O(n)
 * 함수 어댑터 : 부정자(negator)-not2, 바인더(binder), 함수 포인터 어댑터(adpator for pointers to functions)
 </br>
 
-예제1. [reverse_iterator](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Iterator/reverse_iterator.cpp)   
-예제2. 역방향 반복자가 가리키는 실제 원소의 값은 다음 원소 [코드](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Iterator/reverse_iterator_real%20Value.cpp)   
+   예제1. [reverse_iterator](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Iterator/reverse_iterator.cpp)   
+   예제2. 역방향 반복자가 가리키는 실제 원소의 값은 다음 원소 [코드](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Iterator/reverse_iterator_real%20Value.cpp)   
 
-예제3. [not2](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Not2.cpp) (not1은 단항 조건자에 not2는 이항 조건자에 사용)
+   예제3. [not2](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Not2.cpp) (not1은 단항 조건자에 not2는 이항 조건자에 사용)
+   
+</br>
 
+> 할당기 (Allocator)
+</br>
 </br>
 
 ## Problem-Solving
