@@ -29,6 +29,7 @@
 | q = s.erase(p) | p 가 가리키는 문자를 제거. q 는 다음 원소를 가리킴. |
 | q = s.erase(b, e) | 반복자 구간 \[b,e)의 모든 문자를 제거. q 는 다음 원소 |
 | s.find(c) | c 문자를 검색 (찾는 문자가 없으면 string::npos 반환)|
+| s.find(sz, index) | 문자열 sz 를 index 위치부터 검색 |
 | s.length() | 문자의 개수 |
 | n = s.max_size() | n 은 s 가 담을 수 있는 최대 문자의 개수 (메모리 크기) |
 | s.push_back(c) | s 의 끝에 c 를 추가 |
