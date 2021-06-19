@@ -114,7 +114,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 예제1. [reverse_iterator](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Iterator/reverse_iterator.cpp)   
 예제2. 역방향 반복자가 가리키는 실제 원소의 값은 다음 원소 [코드](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Iterator/reverse_iterator_real%20Value.cpp)   
 
-예제3. [not2](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Not2.cpp) : not1은 단항 조건자에 not2는 이항 조건자에 사용
+예제3. [not2](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Not2.cpp) (not1은 단항 조건자에 not2는 이항 조건자에 사용)
 
 </br>
 
