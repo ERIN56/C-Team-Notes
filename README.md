@@ -134,6 +134,8 @@ N의 범위가 10,000,000인 경우 : O(n)
 * 오류 해결
   * [(signal: aborted (core dumped)) / (signal: segmentation fault (core dumped))](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0/signal-aborted(core%20dumped).md)   
 
+* 소수점
+
 ### Solving
  * void [**rotate90degree**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/void%20rotate90degree.cpp)(vector<vector<int>>& key)
  * string [**change**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/string%20change(string%20keyword%2C%20string%20from%2C%20string%20to).cpp)(string keyword, string from, string to)
