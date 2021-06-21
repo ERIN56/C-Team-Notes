@@ -35,7 +35,7 @@ int main(){
         return a.second > b.second;
     });
 
-    for(pair<int, int> : v)
+    for(pair<int, int> it : v)
         cout<<it.first<<":"<<it.second<<" ";
     cout<<"\n=============================\n";   
 
