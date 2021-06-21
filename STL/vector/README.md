@@ -39,7 +39,7 @@
 | reverse(v.b, v.e) | 원소를 뒤집는다. |
 | p = lower_bound(v.b, v.e, sz) | p 는 sz 의 시작 원소를 가리키는 반복자이다. |
 | p = upper_bound(v.b, v.e, sz) | p 는 k 의 끝 을 가리키는 반복자이다. |
-| count(v.b, v.e, i) | 구간 \[b,e) 에서 i 의 개수를 반환한다. |
+| [count(v.b, v.e, i)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/vector/count.cpp) | 구간 \[b,e) 에서 i 의 개수를 반환한다. |
 
 </br>
 
