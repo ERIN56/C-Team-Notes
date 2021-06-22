@@ -138,7 +138,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 * [소수점](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/%EC%86%8C%EC%88%98%EC%A0%90/README.md)
 * Stable Sort   
   * stable_sort(v.begin(), v.end(), compare); 에서 bool compare(int& a, int& b) 하면 오류. & 없이 사용해야 한다.   
-    *bool compare(int a, int b) { }  (O)*
+    *bool compare(int a, int b) { }    ->   (O)*
 
 ### Solving
  * void [**rotate90degree**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/void%20rotate90degree.cpp)(vector<vector<int>>& key)
