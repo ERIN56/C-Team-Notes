@@ -75,6 +75,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 </br>
 
  * isalpha()   [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/string/isalpha.cpp)
+ * p = unique(b, e) [code]    p = unique(b, e, f) [code]
  
  </br>
  </br>
