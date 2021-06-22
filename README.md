@@ -75,7 +75,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 </br>
 
  * isalpha()   [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/string/isalpha.cpp)
- * p = unique(b, e) [code]    p = unique(b, e, f) [code]
+ * p = unique(b, e) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Algorithm/unique(b%2C%20e).cpp)  /  p = unique(b, e, f) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Algorithm/uniique(b%2C%20e%2C%20f).cpp)
  
  </br>
  </br>
@@ -140,7 +140,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 ### Solving
  * void [**rotate90degree**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/void%20rotate90degree.cpp)(vector<vector<int>>& key)
  * string [**change**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/string%20change(string%20keyword%2C%20string%20from%2C%20string%20to).cpp)(string keyword, string from, string to)
- * [Map value sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/mapvaluesort.cpp)
+ * [**Map value sort**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/mapvaluesort.cpp)
 
 
 
