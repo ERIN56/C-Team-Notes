@@ -27,6 +27,7 @@
 
 * round() : 소수 첫째 자리에서 반올림
 ```
+#include <cmath>
 round(3.2)는 -> 3이 반환
 round(3.7)은 -> 4가 반환
 
