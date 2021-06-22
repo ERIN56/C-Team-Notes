@@ -10,7 +10,7 @@
 | 연산자 ||
 |:---------|:----------|
 | m\[k] = v | m 컨테이너에 원소 (k, v)를 추가하거나 key 에 해당하는 원소의 value 값을 v 로 갱신한다. |
-| m.insert(pr(a, b)) | m 컨테이너에 pair 객체를 삽입한다. |
+| [m.insert(pr(a, b))](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/map/insert().cpp) | m 컨테이너에 pair 객체를 삽입한다. |
 
 
 ## multimap
