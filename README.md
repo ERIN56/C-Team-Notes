@@ -48,6 +48,8 @@ N의 범위가 10,000,000인 경우 : O(n)
 ### Dynamic Programming
   * [Fibonacci numbers](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/DP/pibonacci_DP.cpp)
   * [LIS (Longest Increasing Subsequence)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/DP/LIS(Longest%20Increasing%20Subsequence).cpp)
+     * [가장 긴 바이토닉 부분 수열](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.cpp)
+
   * LCS (Longest Common Subsequence)
 
 ### Number Theory
@@ -68,6 +70,7 @@ N의 범위가 10,000,000인 경우 : O(n)
  * [list](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/list)
  * [set](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/set)
  * [map](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/map)
+   * [value sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/mapvaluesort.cpp)
  * stack
  * queue
  * priority_queue
@@ -144,7 +147,5 @@ N의 범위가 10,000,000인 경우 : O(n)
 ### Solving
  * void [**rotate90degree**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/void%20rotate90degree.cpp)(vector<vector<int>>& key)
  * string [**change**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/string%20change(string%20keyword%2C%20string%20from%2C%20string%20to).cpp)(string keyword, string from, string to)
- * [**Map value sort**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/mapvaluesort.cpp)
- * [**가장 긴 바이토닉 부분 수열**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.cpp)
 
 
