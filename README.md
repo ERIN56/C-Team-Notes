@@ -77,8 +77,12 @@ N의 범위가 10,000,000인 경우 : O(n)
 </br>
 
  * isalpha()   [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/string/isalpha.cpp)
- * p = unique(b, e) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Algorithm/unique(b%2C%20e).cpp)  /  p = unique(b, e, f) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Algorithm/uniique(b%2C%20e%2C%20f).cpp)
+ * p = unique(b, e) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Algorithm/unique(b%2C%20e).cpp)  |  p = unique(b, e, f) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Algorithm/uniique(b%2C%20e%2C%20f).cpp)
  * f = for_each(b,e,f) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/Algorithm/for_each.cpp)
+ * iter_swap(p, q)
+ * p = merge(b, e, b2, e, t) |  p = merge(b, e, b2, e2, t, f)
+ * replace(b, e, x, x2) 
+ * swap_range(b, e, b2)
  
  </br>
  </br>
