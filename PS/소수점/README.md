@@ -11,15 +11,15 @@
 * precision(n)
 ```
   * 반올림하여 n 개의 숫자 출력 (정수 포함) 
-  ex)  cout<<5.666<<endl;  -> 5.666
-       cout.precision(1);  
-       cout<<5.666<<endl;  -> 6
+  ex)  cout<<5.666<<endl;  -> (전) 5.666
+       cout.precision(1);
+       cout<<5.666<<endl;  -> (후) 6
        
   * 소수점 고정
-        cout.setf(ios::fixed);//소수점 고정
-        cout.precision(6);//소수 점 아래 6자리 출력
+        cout.setf(ios::fixed);    //소수점 고정
+        cout.precision(6);        //소수 점 아래 6자리 출력
         cout << 10.23;                  -> 10.230000
-        cout.unsetf(ios::fixed);//소수점 고정 해제
+        cout.unsetf(ios::fixed);  //소수점 고정 해제
         cout << ' ' << 10.23;//         -> 10.23
   
 ```
