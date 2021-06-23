@@ -70,7 +70,6 @@ N의 범위가 10,000,000인 경우 : O(n)
  * [list](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/list)
  * [set](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/set)
  * [map](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/map)
-   * [value sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/mapvaluesort.cpp)
  * stack
  * queue
  * priority_queue
@@ -147,5 +146,5 @@ N의 범위가 10,000,000인 경우 : O(n)
 ### Solving
  * void [**rotate90degree**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/void%20rotate90degree.cpp)(vector<vector<int>>& key)
  * string [**change**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/string%20change(string%20keyword%2C%20string%20from%2C%20string%20to).cpp)(string keyword, string from, string to)
-
+ * [**map** value sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/mapvaluesort.cpp)
 
