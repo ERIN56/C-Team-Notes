@@ -49,6 +49,7 @@ N의 범위가 10,000,000인 경우 : O(n)
   * [Fibonacci numbers](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/DP/pibonacci_DP.cpp)
   * [LIS (Longest Increasing Subsequence)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/DP/LIS(Longest%20Increasing%20Subsequence).cpp)
      * [Longest Bitonic Subsequence](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.cpp)
+     * [LIS - O(nlogn)-이분탐색](https://jason9319.tistory.com/113)
 
   * LCS (Longest Common Subsequence)
 
