@@ -1,4 +1,4 @@
-프로그래머스 > level1 > 문자열 내 마음대로 정렬하기
+프로그래머스 > level1 > 문자열 내 마음대로 정렬하기 https://programmers.co.kr/learn/courses/30/lessons/12915
 
 * 정수 n 이 주어졌을 때, 각 문자열의 인덱스 n 번째 글자를 기준으로 오름차순 정렬.
 * 예를 들어 strings 가 ["sun", "bed", "car"] 이고 n이 1이면 각 단어의 인덱스 1의 문자 "u", "e", "a"로 strings를 정렬
