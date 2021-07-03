@@ -152,4 +152,4 @@ N의 범위가 10,000,000인 경우 : O(n)
  * void [**rotate90degree**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/void%20rotate90degree.cpp)(vector<vector<int>>& key)
  * string [**change**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/string%20change(string%20keyword%2C%20string%20from%2C%20string%20to).cpp)(string keyword, string from, string to)
  * [**map** value sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/mapvaluesort.cpp)
-
+ * 문자열을 인덱스 n 기준으로 오름차순 정렬 - 함수 객체(멤버변수 사용, operator()), sort
