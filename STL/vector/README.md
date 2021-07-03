@@ -40,6 +40,7 @@
 | p = lower_bound(v.b, v.e, sz) | p 는 sz 의 시작 원소를 가리키는 반복자이다. |
 | p = upper_bound(v.b, v.e, sz) | p 는 k 의 끝 을 가리키는 반복자이다. |
 | [count(v.b, v.e, i)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/vector/count.cpp) | 구간 \[b,e) 에서 i 의 개수를 반환한다. |
+| find(b, e, sz) | v에서 문자열 sz 를 찾아 반복자 반환 |
 
 </br>
 
