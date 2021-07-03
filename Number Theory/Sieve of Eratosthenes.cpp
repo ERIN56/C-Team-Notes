@@ -29,3 +29,20 @@ int main() {
         if (arr[i]) cout << i << ' ';
     }
 }
+
+
+
+//solutino 2.
+int solution(int n) {
+    int answer=0;
+    vector<bool> prime(n+1, true);
+    
+    for(int i=2; i<=n; i++){
+        if(prime[i]){
+            for(int j=2; i*j<=n; j++) prime[i*j] = false;
+            answer++;
+        }
+    }
+    
+    return answer;
+}
