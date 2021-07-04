@@ -85,6 +85,7 @@ N의 범위가 10,000,000인 경우 : O(n)
  * p = merge(b, e, b2, e, t) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/merge(b%2Ce%2Cb2%2Ce2%2Ct).cpp) |  p = merge(b, e, b2, e2, t, f) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/merge(b%2Ce%2Cb2%2Ce2%2Ct%2Cf).cpp)
  * replace(b, e, x, x2) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/replace.cpp)
  * swap_range(b, e, b2) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/swap_ranges(b%2Ce%2Cb2).cpp)
+ * accumulate(b, e, 0) [code]
  
  </br>
  </br>
