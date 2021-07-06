@@ -72,7 +72,7 @@ int main(){
 #include <vector>
 using namespace std;
 
-vector<int> arr;
+vector<int> arr;    // {1, 2, 3, 4, 5}    
 vector<bool> selected(5);
 vector<int> v;
 
@@ -179,7 +179,7 @@ int main(){
 #include <vector>
 using namespace std;
 
-vector<int> arr;
+vector<int> arr;    // {1, 2, 3, 4, 5}
 vector<int> selected(5);
 
 void print(){
@@ -255,7 +255,7 @@ int main(){
 #include <vector>
 using namespace std;
 
-vector<int> arr;
+vector<int> arr;    // {1, 2, 3, 4, 5}
 vector<int> selected(5);
 
 void print(){
