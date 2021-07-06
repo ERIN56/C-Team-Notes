@@ -86,7 +86,7 @@ N의 범위가 10,000,000인 경우 : O(n)
  * replace(b, e, x, x2) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/replace.cpp)
  * swap_range(b, e, b2) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/swap_ranges(b%2Ce%2Cb2).cpp)
  * accumulate(b, e, 0) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/accumulate.cpp)
- * stringstream [code]()
+ * stringstream [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/stringstream.cpp)
  
  </br>
  </br>
