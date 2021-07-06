@@ -25,9 +25,8 @@ vector<string> solution(vector<string> record) {
     }
 }
 
-
-record : ["Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234","Enter uid1234 Prodo","Change uid4567 Ryan"]
 ex)
+record : ["Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234","Enter uid1234 Prodo","Change uid4567 Ryan"]
 string input : "Enter uid1234 Muzi"
 string acti = Enter
 string id = uid1234
