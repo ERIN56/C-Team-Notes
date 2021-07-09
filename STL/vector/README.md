@@ -42,12 +42,7 @@
 | [count(v.b, v.e, i)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/vector/count.cpp) | 구간 \[b,e) 에서 i 의 개수를 반환한다. |
 | [find(b, e, sz)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/vector/find(b%2C%20e%2C%20sz).cpp) | v에서 문자열 sz 를 찾아 반복자 반환 |
 | p = min_element(b, e) | 구간 \[b,e) 안에 가장 작은 원소를 가리키는 반복자를 반환한다. |
-| transform(b, e, b, ::toupper);</br>transform(b, e, b, ::tolower); | 구간 \[b,e) 안의 원소를 대문자로/소문자로 변경한다. |
 
-
-
-
-transform(str1.begin(), str1.end(), str1.begin(), ::toupper);
 </br>
 
 |연산자||
