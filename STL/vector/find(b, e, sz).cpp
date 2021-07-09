@@ -3,8 +3,8 @@
 
 #include <string>
 #include <vector>
-#include <algorithm>
-#include <iterator>             //find
+#include <algorithm>    //find
+
 using namespace std;
 
 string solution(vector<string> seoul) {
