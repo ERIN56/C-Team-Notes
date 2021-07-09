@@ -45,7 +45,7 @@
 | s.swap(s2) | s 와 s2 를 swap |
 | toupper(c) | 문자 c 를 대문자로 변경하여 리턴 |
 | tolower(c) | 문자 c 를 소문자로 변경하여 리턴 |
-| transform(b, e, b, ::toupper);</br>transform(b, e, b, ::tolower); | 구간 \[b,e) 안의 원소를 대문자로/소문자로 변경한다. |
+| [transform(b, e, b, ::toupper);</br>transform(b, e, b, ::tolower);](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/string/transfrom) | 구간 \[b,e) 안의 원소를 대문자로/소문자로 변경한다. |
 
 
 | 연산자 ||
