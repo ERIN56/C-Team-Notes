@@ -151,7 +151,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 * Stable Sort   
   * stable_sort(v.begin(), v.end(), compare); 에서 bool compare(int& a, int& b) 하면 오류. & 없이 사용해야 한다.   
     *bool compare(int a, int b) { }    ->   (O)*
-* set에 사용자 정의 객체(const 객체 사용)
+* [set에 사용자 정의 객체(const 객체 사용)](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/PS)
 
 ### Solving
  * void [**rotate90degree**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/void%20rotate90degree.cpp)(vector<vector<int>>& key)
