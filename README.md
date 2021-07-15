@@ -52,6 +52,9 @@ N의 범위가 10,000,000인 경우 : O(n)
      * [LIS - O(nlogn)-이분탐색](https://jason9319.tistory.com/113)
 
   * LCS (Longest Common Subsequence)
+  * [알고리즘 설명(coin change problem)](https://do-rang.tistory.com/9)
+  </br<
+  * dp 에제 1) [프로그래스>가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905)
 
 ### Number Theory
   * [Permutation and Combination](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Number%20Theory/Permutation%20and%20Combination.cpp)
