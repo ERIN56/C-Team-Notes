@@ -53,7 +53,8 @@ N의 범위가 10,000,000인 경우 : O(n)
 
   * LCS (Longest Common Subsequence)
   * [알고리즘 설명(coin change problem)](https://do-rang.tistory.com/9)
-  </br<
+  </br>
+  
   * dp 에제 1) [프로그래스>가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905)
 
 ### Number Theory
