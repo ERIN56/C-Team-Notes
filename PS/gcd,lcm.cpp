@@ -1,5 +1,5 @@
 
-int gcd(int m, int n) {       //최대 공약수
+int gcd(int m, int n) {       //최대 공약수 - 유클리드 호제법
     if(n==0 return m;
     return gcd(n, m%n);
 }
