@@ -6,7 +6,7 @@ using namespace std;
 
 int solution(vector<vector<string>> clothes) {
     
-    map<string, vector<string>> mCloth;
+    map<string, vector<string>> mCloth;         // map 생성
   
     for(auto elem : clothes)
     {
