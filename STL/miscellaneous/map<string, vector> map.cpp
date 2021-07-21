@@ -15,7 +15,7 @@ int solution(vector<vector<string>> clothes) {
   
     for(auto elem : mCloth)
     {
-        answer*=elem.second.size()+1;
+        answer*=elem.second.size()+1;       // elem.second.size() == 2
     }
   
     answer--;
