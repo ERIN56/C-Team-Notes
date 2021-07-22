@@ -163,7 +163,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 * s.erase(p) 에서 p에 반복자가 아닌 인덱스 값이 들어가면 해당 인덱스값부터 모든 문자가 지워진다. (반복자를 넣으면 반복자가 가리키는 해당 값만 삭제)
 * \>\>(비트 이동 연산자)
   * m << n : m 을 왼쪽으로 n 만큼 이동 = n >> m        // 부등호가 m(이동대상)쪽으로 등지고 있으면 왼쪽 이동
-  * m >> n : m 을 오른쪽으로 n 만큼 이동 = n << m      // 부등호가 m(이동대상)쪽으로 입벌리고 있으면 오른쪽 이동
+  * m >> n : m 을 오른쪽으로 n 만큼 이동 = n << m      // 부등호가 m(이동대상)쪽으로 입벌리고 있으면 오른쪽 이동, m/2^n 의 값
 
 ### Solving
  * void [**rotate90degree**](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/PS/void%20rotate90degree.cpp)(vector<vector<int>>& key)
