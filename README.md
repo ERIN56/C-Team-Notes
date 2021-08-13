@@ -20,12 +20,12 @@ N의 범위가 10,000,000인 경우 : O(n)
   * [Quick Sort-unstable](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/quickSort.cpp)
   * Merge Sort-stable
   * [Topological Sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/TopologicalSort.cpp)
-  * [Selection Sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/selectionSort.cpp)
+  * [Selection Sort-unstable](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/selectionSort.cpp)
   * [Insertion Sort-stable](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/InsertionSort.cpp)
   * Bubble Sort-stable
   * C++ Sort Library
     * sort (시퀀스 컨테이너만 가능)
-    * priority_queue(힙정렬-O(nlogn))
+    * priority_queue-unstable(힙정렬-O(nlogn))
 
 ### Searching
   * [Sequential Search](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Searching/sequentialSearch.cpp)
