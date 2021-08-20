@@ -17,11 +17,11 @@ N의 범위가 10,000,000인 경우 : O(n)
 
 ### Sorting
   * [Counting Sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/CountingSort.cpp)
-  * [Quick Sort-unstable](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/quickSort.cpp)
+  * [Quick Sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/quickSort.cpp)-unstable
   * Merge Sort-stable
   * [Topological Sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/TopologicalSort.cpp)
-  * [Selection Sort-unstable](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/selectionSort.cpp)
-  * [Insertion Sort-stable](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/InsertionSort.cpp)
+  * [Selection Sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/selectionSort.cpp)-unstable
+  * [Insertion Sort](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Sorting/InsertionSort.cpp)-stable
   * Bubble Sort-stable
   * C++ Sort Library
     * sort (시퀀스 컨테이너만 가능)
