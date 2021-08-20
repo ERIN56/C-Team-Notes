@@ -25,7 +25,7 @@ N의 범위가 10,000,000인 경우 : O(n)
   * Bubble Sort-stable
   * C++ Sort Library
     * sort (시퀀스 컨테이너만 가능)
-    * priority_queue-unstable(힙정렬-O(nlogn))
+    * priority_queue-unstable(힙정렬-O(nlog(2)n))
 
 ### Searching
   * [Sequential Search](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Searching/sequentialSearch.cpp)
