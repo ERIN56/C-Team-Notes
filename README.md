@@ -37,7 +37,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 
 ### Graph
   * [Dijkstra Shortest Path](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Graph/dikstraShortestPath.cpp)
-  * [Floyd-WarShall](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Graph/Floyd-WarShall.cpp)
+  * [Floyd-WarShall Shortest Path](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Graph/Floyd-WarShall.cpp)
   * [Kruskal Minimum Spanning Tree (MST)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Graph/kruskal%20MST.cpp)
 
 ### Data Structure
