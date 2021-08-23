@@ -60,6 +60,7 @@ N의 범위가 10,000,000인 경우 : O(n)
   
   1) [프로그래스>가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905)
   2) [프로그래머스>정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
+  3) [프로그래머스>도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
 
 ### Number Theory
   * [Permutation and Combination](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Number%20Theory/Permutation%20and%20Combination.cpp)
