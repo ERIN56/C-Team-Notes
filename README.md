@@ -95,6 +95,7 @@ N의 범위가 10,000,000인 경우 : O(n)
  * replace(b, e, x, x2) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/replace.cpp)
  * swap_range(b, e, b2) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/swap_ranges(b%2Ce%2Cb2).cpp)
  * accumulate(b, e, 0) [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/accumulate.cpp)
+ * fill_n(count, n, 0);
  * stringstream [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/stringstream.cpp)
  * [map<string, vector> map;](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/map%3Cstring,%20vector%3E%20map.cpp)
  * stringConversion(stoi, stoul(unsigned long), stoull(unsigned long long), stof, stod, stold(long double))
