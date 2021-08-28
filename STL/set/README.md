@@ -48,6 +48,7 @@
 | n = s.max_size() | n 은 s 가 담을 수 있는 최대 원소의 개수이다. (메모리 크기) |
 | s.size() | 원소의 개수이다. |
 | s.swap(s2) | s 와 s2 를 swap한다. |
+| set\<int>::iterator nex = next(cur); </br> set\<int>::iterator pre = prev(cur); | cur은 set\<int>::iterator, nex은 cur 의 다음 노드를 가리키는 반복자, prev은 이전 노드를 가리키는 반복자 |
 </br>
 
 | 연산자 ||
