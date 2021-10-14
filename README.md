@@ -75,7 +75,7 @@ N의 범위가 10,000,000인 경우 : O(n)
 ## STL
 ### 구성 요소
  * [vector](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/vector)
- * deque
+ * [deque](https://github.com/ERIN56/CPP-TEAM-NOTES/blob/master/STL/deque/deque.cpp)
  * [list](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/list)
  * [set](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/set)
  * [map](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/map)
