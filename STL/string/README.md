@@ -56,6 +56,6 @@
 | s=s2 | s2를 s에 할당 |
 | cout<<s | s 를 stream 에 씀 |
 | in>>s | stream 에서 s 로 읽음 |
-| getline(in, s) | 스트림에서 s 로 한 줄을 읽음 |
+| getline(in, s, c) | 스트림에서 s 에 c로 구분하여 문자열을 저장(in은 cin, s는 string, c는 char) |
 | 그외 비교 연산 | ==, !=, <, >, <=, >= |
 
