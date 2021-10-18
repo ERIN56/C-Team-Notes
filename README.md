@@ -83,7 +83,7 @@ N의 범위가 10,000,000인 경우 : O(n)
  * [queue](https://github.com/ERIN56/CPP-TEAM-NOTES/blob/master/STL/queue/queue.cpp)
  * priority_queue
  * [string](https://github.com/ERIN56/Cpp-Team-Notes/tree/master/STL/string)
- * tuple
+ * [tuple](https://github.com/ERIN56/CPP-TEAM-NOTES/blob/master/STL/tuple/tuple.cpp)
 </br>
 
  [C++ Reference](https://www.cplusplus.com/reference/cmath/)
@@ -99,6 +99,7 @@ N의 범위가 10,000,000인 경우 : O(n)
  * stringstream [code](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/stringstream.cpp)
  * [map<string, vector> map;](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/map%3Cstring,%20vector%3E%20map.cpp)
  * stringConversion(stoi, stoul(unsigned long), stoull(unsigned long long), stof, stod, stold(long double))
+ * int graph[z][y][x];  (높이, 세로, 가로)
 
  </br>
  </br>
