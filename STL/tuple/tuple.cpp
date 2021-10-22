@@ -25,6 +25,9 @@ int main(){
   //////////////////////////////////////////////////////////////////////
   
   queue<tuple<int, int, int>> que;
+  int vk, vx, vy;
+  tie(vk, vx, vy) = que.front();
+ 
   que.push({1, 2, 3});
   que.push(make_tuple(1, 2, 3));
   
