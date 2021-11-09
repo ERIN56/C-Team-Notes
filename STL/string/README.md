@@ -46,6 +46,7 @@
 | toupper(c) | 문자 c 를 대문자로 변경하여 리턴 |
 | tolower(c) | 문자 c 를 소문자로 변경하여 리턴 |
 | [transform(s1.b, s1.e, s2.b, ::toupper);</br>transform(s1.b, s1.e, s2.b, ::tolower);](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/string/transfrom.cpp) | s1의 구간 \[b,e) 안의 원소를 대문자/소문자로 변경해 s2.b, s2+(s1.e-s1.b) 저장|
+| strchr("-._", ch) | #include <string.h> |
 
 
 | 연산자 ||
