@@ -56,7 +56,7 @@ N의 범위가 10,000,000인 경우 : O(n)
   * [알고리즘 설명(coin change problem)](https://do-rang.tistory.com/9)
   </br>
   
-  > DP 예제
+  * DP 예제
   
   1) [프로그래스>가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905)
   2) [프로그래머스>정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
@@ -72,6 +72,7 @@ N의 범위가 10,000,000인 경우 : O(n)
   * Two Pointers
     * [Number of intervals whom sum is M](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Miscellaneous/Number%20of%20intervals%20whos%20sum%20is%20M%20(Two%20Pointers).cpp)
   * [Sum of Intervals (Prefix Sum)](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/Miscellaneous/Sum%20of%20Intervals%20(Prefix%20Sum).cpp)
+</br>
 
 ## STL
 ### 구성 요소
@@ -101,11 +102,9 @@ N의 범위가 10,000,000인 경우 : O(n)
  * [map<string, vector> map;](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/miscellaneous/map%3Cstring,%20vector%3E%20map.cpp)
  * stringConversion(stoi, stoul(unsigned long), stoull(unsigned long long), stof, stod, stold(long double))
  * int graph[z][y][x];  (높이, 세로, 가로)
-
- </br>
  </br>
 
-[개념](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/개념.md)</br>
+* [개념](https://github.com/ERIN56/Cpp-Team-Notes/blob/master/STL/개념.md)</br>
 </br>
 
 ## Problem-Solving
